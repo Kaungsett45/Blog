@@ -1,0 +1,26 @@
+
+nav{
+    display: flex;
+}
+#reginput{
+    padding-top: 18px;
+
+}
+.tofillspace{
+    padding: 20px;
+}
+#reginput p{
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+#boid{
+    padding: 0px 30px;
+}
+.inin{
+    width: 100%;
+    height: 35px;
+    font-size: 16px;
+}
+#reginput #submit{
+    margin-left:0px;
+}
