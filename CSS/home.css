@@ -154,7 +154,7 @@ main{
     justify-items: center;
   }
   #postuser p,.realuser p{
-    padding: 0px 20px;
+    padding: 0px 10px;
     margin:8px 0px;
   }
   #postuser .faint{
@@ -206,4 +206,8 @@ svg{
 }
 .upload{
     padding-top:40px;
+}
+#post-edit{
+    width: 15px;
+    margin-top: 6px;
 }
